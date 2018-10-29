@@ -1,1 +1,1 @@
-# NIH_Practicum_Summer2017
+# NIH_Practicum_Project
